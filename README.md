@@ -1,16 +1,47 @@
-# flutter_news_app
+<h1>😃 News app in Flutter</h1>
 
-A new Flutter application.
+<p>This is a news app made in flutter. This app is fetching News data from NewsApi.org which a very legit and trustable api.</p>
 
-## Getting Started
+<hr>
 
-This project is a starting point for a Flutter application.
+<h3>✨ <b>Source of Data</b> --</h3>
+<p> I used NewsApi.org api to fetch realtime News data. <br>
+https://newsapi.org/
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+<hr>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<h3>✔ <b>Dependencies</b> --</h3>
+<p>
+   
+  
+     dependencies:
+        flutter:
+          sdk: flutter
+        http: ^0.12.1
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+</p>
+
+<hr>
+
+<h3>📱 <b>Screenshots</b> --</h3>
+<br>
+
+<img src="https://github.com/KingSujeet/News_App_In_Flutter/blob/master/WhatsApp%20Image%202020-07-14%20at%205.06.07%20PM.jpeg" width="250">
+<br><br>
+
+
+
+<img src="https://github.com/KingSujeet/News_App_In_Flutter/blob/master/WhatsApp%20Image%202020-07-14%20at%205.06.07%20PM%20(1).jpeg" width="250">
+<br><br>
+
+
+
+<img src="https://github.com/KingSujeet/News_App_In_Flutter/blob/master/WhatsApp%20Image%202020-07-14%20at%205.06.07%20PM%20(2).jpeg" width="250">
+<br><br>
+
+
+
+<img src="https://github.com/KingSujeet/News_App_In_Flutter/blob/master/WhatsApp%20Image%202020-07-14%20at%205.06.07%20PM%20(3).jpeg" width="250">
+<br><br>
